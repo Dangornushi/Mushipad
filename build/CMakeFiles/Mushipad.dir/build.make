@@ -69,108 +69,108 @@ include CMakeFiles/Mushipad.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Mushipad.dir/flags.make
 
-CMakeFiles/Mushipad.dir/main.cpp.o: CMakeFiles/Mushipad.dir/flags.make
-CMakeFiles/Mushipad.dir/main.cpp.o: ../main.cpp
-CMakeFiles/Mushipad.dir/main.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Mushipad.dir/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/main.cpp.o -MF CMakeFiles/Mushipad.dir/main.cpp.o.d -o CMakeFiles/Mushipad.dir/main.cpp.o -c /Users/dangomushi/Mushipad/main.cpp
+CMakeFiles/Mushipad.dir/src/main.cpp.o: CMakeFiles/Mushipad.dir/flags.make
+CMakeFiles/Mushipad.dir/src/main.cpp.o: ../src/main.cpp
+CMakeFiles/Mushipad.dir/src/main.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Mushipad.dir/src/main.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/src/main.cpp.o -MF CMakeFiles/Mushipad.dir/src/main.cpp.o.d -o CMakeFiles/Mushipad.dir/src/main.cpp.o -c /Users/dangomushi/Mushipad/src/main.cpp
 
-CMakeFiles/Mushipad.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/main.cpp > CMakeFiles/Mushipad.dir/main.cpp.i
+CMakeFiles/Mushipad.dir/src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/src/main.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/src/main.cpp > CMakeFiles/Mushipad.dir/src/main.cpp.i
 
-CMakeFiles/Mushipad.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/main.cpp -o CMakeFiles/Mushipad.dir/main.cpp.s
+CMakeFiles/Mushipad.dir/src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/src/main.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/src/main.cpp -o CMakeFiles/Mushipad.dir/src/main.cpp.s
 
-CMakeFiles/Mushipad.dir/keyboard.cpp.o: CMakeFiles/Mushipad.dir/flags.make
-CMakeFiles/Mushipad.dir/keyboard.cpp.o: ../keyboard.cpp
-CMakeFiles/Mushipad.dir/keyboard.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Mushipad.dir/keyboard.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/keyboard.cpp.o -MF CMakeFiles/Mushipad.dir/keyboard.cpp.o.d -o CMakeFiles/Mushipad.dir/keyboard.cpp.o -c /Users/dangomushi/Mushipad/keyboard.cpp
+CMakeFiles/Mushipad.dir/src/keyboard.cpp.o: CMakeFiles/Mushipad.dir/flags.make
+CMakeFiles/Mushipad.dir/src/keyboard.cpp.o: ../src/keyboard.cpp
+CMakeFiles/Mushipad.dir/src/keyboard.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Mushipad.dir/src/keyboard.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/src/keyboard.cpp.o -MF CMakeFiles/Mushipad.dir/src/keyboard.cpp.o.d -o CMakeFiles/Mushipad.dir/src/keyboard.cpp.o -c /Users/dangomushi/Mushipad/src/keyboard.cpp
 
-CMakeFiles/Mushipad.dir/keyboard.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/keyboard.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/keyboard.cpp > CMakeFiles/Mushipad.dir/keyboard.cpp.i
+CMakeFiles/Mushipad.dir/src/keyboard.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/src/keyboard.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/src/keyboard.cpp > CMakeFiles/Mushipad.dir/src/keyboard.cpp.i
 
-CMakeFiles/Mushipad.dir/keyboard.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/keyboard.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/keyboard.cpp -o CMakeFiles/Mushipad.dir/keyboard.cpp.s
+CMakeFiles/Mushipad.dir/src/keyboard.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/src/keyboard.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/src/keyboard.cpp -o CMakeFiles/Mushipad.dir/src/keyboard.cpp.s
 
-CMakeFiles/Mushipad.dir/MainWindow.cpp.o: CMakeFiles/Mushipad.dir/flags.make
-CMakeFiles/Mushipad.dir/MainWindow.cpp.o: ../MainWindow.cpp
-CMakeFiles/Mushipad.dir/MainWindow.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Mushipad.dir/MainWindow.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/MainWindow.cpp.o -MF CMakeFiles/Mushipad.dir/MainWindow.cpp.o.d -o CMakeFiles/Mushipad.dir/MainWindow.cpp.o -c /Users/dangomushi/Mushipad/MainWindow.cpp
+CMakeFiles/Mushipad.dir/src/MainWindow.cpp.o: CMakeFiles/Mushipad.dir/flags.make
+CMakeFiles/Mushipad.dir/src/MainWindow.cpp.o: ../src/MainWindow.cpp
+CMakeFiles/Mushipad.dir/src/MainWindow.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Mushipad.dir/src/MainWindow.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/src/MainWindow.cpp.o -MF CMakeFiles/Mushipad.dir/src/MainWindow.cpp.o.d -o CMakeFiles/Mushipad.dir/src/MainWindow.cpp.o -c /Users/dangomushi/Mushipad/src/MainWindow.cpp
 
-CMakeFiles/Mushipad.dir/MainWindow.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/MainWindow.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/MainWindow.cpp > CMakeFiles/Mushipad.dir/MainWindow.cpp.i
+CMakeFiles/Mushipad.dir/src/MainWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/src/MainWindow.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/src/MainWindow.cpp > CMakeFiles/Mushipad.dir/src/MainWindow.cpp.i
 
-CMakeFiles/Mushipad.dir/MainWindow.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/MainWindow.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/MainWindow.cpp -o CMakeFiles/Mushipad.dir/MainWindow.cpp.s
+CMakeFiles/Mushipad.dir/src/MainWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/src/MainWindow.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/src/MainWindow.cpp -o CMakeFiles/Mushipad.dir/src/MainWindow.cpp.s
 
-CMakeFiles/Mushipad.dir/CommandWindow.cpp.o: CMakeFiles/Mushipad.dir/flags.make
-CMakeFiles/Mushipad.dir/CommandWindow.cpp.o: ../CommandWindow.cpp
-CMakeFiles/Mushipad.dir/CommandWindow.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Mushipad.dir/CommandWindow.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/CommandWindow.cpp.o -MF CMakeFiles/Mushipad.dir/CommandWindow.cpp.o.d -o CMakeFiles/Mushipad.dir/CommandWindow.cpp.o -c /Users/dangomushi/Mushipad/CommandWindow.cpp
+CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o: CMakeFiles/Mushipad.dir/flags.make
+CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o: ../src/CommandWindow.cpp
+CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o -MF CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o.d -o CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o -c /Users/dangomushi/Mushipad/src/CommandWindow.cpp
 
-CMakeFiles/Mushipad.dir/CommandWindow.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/CommandWindow.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/CommandWindow.cpp > CMakeFiles/Mushipad.dir/CommandWindow.cpp.i
+CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/src/CommandWindow.cpp > CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.i
 
-CMakeFiles/Mushipad.dir/CommandWindow.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/CommandWindow.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/CommandWindow.cpp -o CMakeFiles/Mushipad.dir/CommandWindow.cpp.s
+CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/src/CommandWindow.cpp -o CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.s
 
-CMakeFiles/Mushipad.dir/InputBox.cpp.o: CMakeFiles/Mushipad.dir/flags.make
-CMakeFiles/Mushipad.dir/InputBox.cpp.o: ../InputBox.cpp
-CMakeFiles/Mushipad.dir/InputBox.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Mushipad.dir/InputBox.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/InputBox.cpp.o -MF CMakeFiles/Mushipad.dir/InputBox.cpp.o.d -o CMakeFiles/Mushipad.dir/InputBox.cpp.o -c /Users/dangomushi/Mushipad/InputBox.cpp
+CMakeFiles/Mushipad.dir/src/InputBox.cpp.o: CMakeFiles/Mushipad.dir/flags.make
+CMakeFiles/Mushipad.dir/src/InputBox.cpp.o: ../src/InputBox.cpp
+CMakeFiles/Mushipad.dir/src/InputBox.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Mushipad.dir/src/InputBox.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/src/InputBox.cpp.o -MF CMakeFiles/Mushipad.dir/src/InputBox.cpp.o.d -o CMakeFiles/Mushipad.dir/src/InputBox.cpp.o -c /Users/dangomushi/Mushipad/src/InputBox.cpp
 
-CMakeFiles/Mushipad.dir/InputBox.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/InputBox.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/InputBox.cpp > CMakeFiles/Mushipad.dir/InputBox.cpp.i
+CMakeFiles/Mushipad.dir/src/InputBox.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/src/InputBox.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/src/InputBox.cpp > CMakeFiles/Mushipad.dir/src/InputBox.cpp.i
 
-CMakeFiles/Mushipad.dir/InputBox.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/InputBox.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/InputBox.cpp -o CMakeFiles/Mushipad.dir/InputBox.cpp.s
+CMakeFiles/Mushipad.dir/src/InputBox.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/src/InputBox.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/src/InputBox.cpp -o CMakeFiles/Mushipad.dir/src/InputBox.cpp.s
 
-CMakeFiles/Mushipad.dir/EditWindow.cpp.o: CMakeFiles/Mushipad.dir/flags.make
-CMakeFiles/Mushipad.dir/EditWindow.cpp.o: ../EditWindow.cpp
-CMakeFiles/Mushipad.dir/EditWindow.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Mushipad.dir/EditWindow.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/EditWindow.cpp.o -MF CMakeFiles/Mushipad.dir/EditWindow.cpp.o.d -o CMakeFiles/Mushipad.dir/EditWindow.cpp.o -c /Users/dangomushi/Mushipad/EditWindow.cpp
+CMakeFiles/Mushipad.dir/src/EditWindow.cpp.o: CMakeFiles/Mushipad.dir/flags.make
+CMakeFiles/Mushipad.dir/src/EditWindow.cpp.o: ../src/EditWindow.cpp
+CMakeFiles/Mushipad.dir/src/EditWindow.cpp.o: CMakeFiles/Mushipad.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Mushipad.dir/src/EditWindow.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Mushipad.dir/src/EditWindow.cpp.o -MF CMakeFiles/Mushipad.dir/src/EditWindow.cpp.o.d -o CMakeFiles/Mushipad.dir/src/EditWindow.cpp.o -c /Users/dangomushi/Mushipad/src/EditWindow.cpp
 
-CMakeFiles/Mushipad.dir/EditWindow.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/EditWindow.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/EditWindow.cpp > CMakeFiles/Mushipad.dir/EditWindow.cpp.i
+CMakeFiles/Mushipad.dir/src/EditWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Mushipad.dir/src/EditWindow.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/dangomushi/Mushipad/src/EditWindow.cpp > CMakeFiles/Mushipad.dir/src/EditWindow.cpp.i
 
-CMakeFiles/Mushipad.dir/EditWindow.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/EditWindow.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/EditWindow.cpp -o CMakeFiles/Mushipad.dir/EditWindow.cpp.s
+CMakeFiles/Mushipad.dir/src/EditWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Mushipad.dir/src/EditWindow.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/dangomushi/Mushipad/src/EditWindow.cpp -o CMakeFiles/Mushipad.dir/src/EditWindow.cpp.s
 
 # Object files for target Mushipad
 Mushipad_OBJECTS = \
-"CMakeFiles/Mushipad.dir/main.cpp.o" \
-"CMakeFiles/Mushipad.dir/keyboard.cpp.o" \
-"CMakeFiles/Mushipad.dir/MainWindow.cpp.o" \
-"CMakeFiles/Mushipad.dir/CommandWindow.cpp.o" \
-"CMakeFiles/Mushipad.dir/InputBox.cpp.o" \
-"CMakeFiles/Mushipad.dir/EditWindow.cpp.o"
+"CMakeFiles/Mushipad.dir/src/main.cpp.o" \
+"CMakeFiles/Mushipad.dir/src/keyboard.cpp.o" \
+"CMakeFiles/Mushipad.dir/src/MainWindow.cpp.o" \
+"CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o" \
+"CMakeFiles/Mushipad.dir/src/InputBox.cpp.o" \
+"CMakeFiles/Mushipad.dir/src/EditWindow.cpp.o"
 
 # External object files for target Mushipad
 Mushipad_EXTERNAL_OBJECTS =
 
-Mushipad: CMakeFiles/Mushipad.dir/main.cpp.o
-Mushipad: CMakeFiles/Mushipad.dir/keyboard.cpp.o
-Mushipad: CMakeFiles/Mushipad.dir/MainWindow.cpp.o
-Mushipad: CMakeFiles/Mushipad.dir/CommandWindow.cpp.o
-Mushipad: CMakeFiles/Mushipad.dir/InputBox.cpp.o
-Mushipad: CMakeFiles/Mushipad.dir/EditWindow.cpp.o
+Mushipad: CMakeFiles/Mushipad.dir/src/main.cpp.o
+Mushipad: CMakeFiles/Mushipad.dir/src/keyboard.cpp.o
+Mushipad: CMakeFiles/Mushipad.dir/src/MainWindow.cpp.o
+Mushipad: CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o
+Mushipad: CMakeFiles/Mushipad.dir/src/InputBox.cpp.o
+Mushipad: CMakeFiles/Mushipad.dir/src/EditWindow.cpp.o
 Mushipad: CMakeFiles/Mushipad.dir/build.make
 Mushipad: CMakeFiles/Mushipad.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/dangomushi/Mushipad/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Mushipad"

@@ -129,149 +129,149 @@ Mushipad/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/build
 .PHONY : Mushipad/fast
 
-CommandWindow.o: CommandWindow.cpp.o
-.PHONY : CommandWindow.o
+src/CommandWindow.o: src/CommandWindow.cpp.o
+.PHONY : src/CommandWindow.o
 
 # target to build an object file
-CommandWindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/CommandWindow.cpp.o
-.PHONY : CommandWindow.cpp.o
+src/CommandWindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o
+.PHONY : src/CommandWindow.cpp.o
 
-CommandWindow.i: CommandWindow.cpp.i
-.PHONY : CommandWindow.i
+src/CommandWindow.i: src/CommandWindow.cpp.i
+.PHONY : src/CommandWindow.i
 
 # target to preprocess a source file
-CommandWindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/CommandWindow.cpp.i
-.PHONY : CommandWindow.cpp.i
+src/CommandWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.i
+.PHONY : src/CommandWindow.cpp.i
 
-CommandWindow.s: CommandWindow.cpp.s
-.PHONY : CommandWindow.s
+src/CommandWindow.s: src/CommandWindow.cpp.s
+.PHONY : src/CommandWindow.s
 
 # target to generate assembly for a file
-CommandWindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/CommandWindow.cpp.s
-.PHONY : CommandWindow.cpp.s
+src/CommandWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.s
+.PHONY : src/CommandWindow.cpp.s
 
-EditWindow.o: EditWindow.cpp.o
-.PHONY : EditWindow.o
+src/EditWindow.o: src/EditWindow.cpp.o
+.PHONY : src/EditWindow.o
 
 # target to build an object file
-EditWindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/EditWindow.cpp.o
-.PHONY : EditWindow.cpp.o
+src/EditWindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/EditWindow.cpp.o
+.PHONY : src/EditWindow.cpp.o
 
-EditWindow.i: EditWindow.cpp.i
-.PHONY : EditWindow.i
+src/EditWindow.i: src/EditWindow.cpp.i
+.PHONY : src/EditWindow.i
 
 # target to preprocess a source file
-EditWindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/EditWindow.cpp.i
-.PHONY : EditWindow.cpp.i
+src/EditWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/EditWindow.cpp.i
+.PHONY : src/EditWindow.cpp.i
 
-EditWindow.s: EditWindow.cpp.s
-.PHONY : EditWindow.s
+src/EditWindow.s: src/EditWindow.cpp.s
+.PHONY : src/EditWindow.s
 
 # target to generate assembly for a file
-EditWindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/EditWindow.cpp.s
-.PHONY : EditWindow.cpp.s
+src/EditWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/EditWindow.cpp.s
+.PHONY : src/EditWindow.cpp.s
 
-InputBox.o: InputBox.cpp.o
-.PHONY : InputBox.o
+src/InputBox.o: src/InputBox.cpp.o
+.PHONY : src/InputBox.o
 
 # target to build an object file
-InputBox.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/InputBox.cpp.o
-.PHONY : InputBox.cpp.o
+src/InputBox.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/InputBox.cpp.o
+.PHONY : src/InputBox.cpp.o
 
-InputBox.i: InputBox.cpp.i
-.PHONY : InputBox.i
+src/InputBox.i: src/InputBox.cpp.i
+.PHONY : src/InputBox.i
 
 # target to preprocess a source file
-InputBox.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/InputBox.cpp.i
-.PHONY : InputBox.cpp.i
+src/InputBox.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/InputBox.cpp.i
+.PHONY : src/InputBox.cpp.i
 
-InputBox.s: InputBox.cpp.s
-.PHONY : InputBox.s
+src/InputBox.s: src/InputBox.cpp.s
+.PHONY : src/InputBox.s
 
 # target to generate assembly for a file
-InputBox.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/InputBox.cpp.s
-.PHONY : InputBox.cpp.s
+src/InputBox.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/InputBox.cpp.s
+.PHONY : src/InputBox.cpp.s
 
-MainWindow.o: MainWindow.cpp.o
-.PHONY : MainWindow.o
+src/MainWindow.o: src/MainWindow.cpp.o
+.PHONY : src/MainWindow.o
 
 # target to build an object file
-MainWindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/MainWindow.cpp.o
-.PHONY : MainWindow.cpp.o
+src/MainWindow.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/MainWindow.cpp.o
+.PHONY : src/MainWindow.cpp.o
 
-MainWindow.i: MainWindow.cpp.i
-.PHONY : MainWindow.i
+src/MainWindow.i: src/MainWindow.cpp.i
+.PHONY : src/MainWindow.i
 
 # target to preprocess a source file
-MainWindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/MainWindow.cpp.i
-.PHONY : MainWindow.cpp.i
+src/MainWindow.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/MainWindow.cpp.i
+.PHONY : src/MainWindow.cpp.i
 
-MainWindow.s: MainWindow.cpp.s
-.PHONY : MainWindow.s
+src/MainWindow.s: src/MainWindow.cpp.s
+.PHONY : src/MainWindow.s
 
 # target to generate assembly for a file
-MainWindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/MainWindow.cpp.s
-.PHONY : MainWindow.cpp.s
+src/MainWindow.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/MainWindow.cpp.s
+.PHONY : src/MainWindow.cpp.s
 
-keyboard.o: keyboard.cpp.o
-.PHONY : keyboard.o
+src/keyboard.o: src/keyboard.cpp.o
+.PHONY : src/keyboard.o
 
 # target to build an object file
-keyboard.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/keyboard.cpp.o
-.PHONY : keyboard.cpp.o
+src/keyboard.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/keyboard.cpp.o
+.PHONY : src/keyboard.cpp.o
 
-keyboard.i: keyboard.cpp.i
-.PHONY : keyboard.i
+src/keyboard.i: src/keyboard.cpp.i
+.PHONY : src/keyboard.i
 
 # target to preprocess a source file
-keyboard.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/keyboard.cpp.i
-.PHONY : keyboard.cpp.i
+src/keyboard.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/keyboard.cpp.i
+.PHONY : src/keyboard.cpp.i
 
-keyboard.s: keyboard.cpp.s
-.PHONY : keyboard.s
+src/keyboard.s: src/keyboard.cpp.s
+.PHONY : src/keyboard.s
 
 # target to generate assembly for a file
-keyboard.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/keyboard.cpp.s
-.PHONY : keyboard.cpp.s
+src/keyboard.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/keyboard.cpp.s
+.PHONY : src/keyboard.cpp.s
 
-main.o: main.cpp.o
-.PHONY : main.o
+src/main.o: src/main.cpp.o
+.PHONY : src/main.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/main.cpp.o
-.PHONY : main.cpp.o
+src/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/main.cpp.o
+.PHONY : src/main.cpp.o
 
-main.i: main.cpp.i
-.PHONY : main.i
+src/main.i: src/main.cpp.i
+.PHONY : src/main.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/main.cpp.i
-.PHONY : main.cpp.i
+src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/main.cpp.i
+.PHONY : src/main.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+src/main.s: src/main.cpp.s
+.PHONY : src/main.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/main.cpp.s
-.PHONY : main.cpp.s
+src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Mushipad.dir/build.make CMakeFiles/Mushipad.dir/src/main.cpp.s
+.PHONY : src/main.cpp.s
 
 # Help Target
 help:
@@ -282,24 +282,24 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Mushipad"
-	@echo "... CommandWindow.o"
-	@echo "... CommandWindow.i"
-	@echo "... CommandWindow.s"
-	@echo "... EditWindow.o"
-	@echo "... EditWindow.i"
-	@echo "... EditWindow.s"
-	@echo "... InputBox.o"
-	@echo "... InputBox.i"
-	@echo "... InputBox.s"
-	@echo "... MainWindow.o"
-	@echo "... MainWindow.i"
-	@echo "... MainWindow.s"
-	@echo "... keyboard.o"
-	@echo "... keyboard.i"
-	@echo "... keyboard.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... src/CommandWindow.o"
+	@echo "... src/CommandWindow.i"
+	@echo "... src/CommandWindow.s"
+	@echo "... src/EditWindow.o"
+	@echo "... src/EditWindow.i"
+	@echo "... src/EditWindow.s"
+	@echo "... src/InputBox.o"
+	@echo "... src/InputBox.i"
+	@echo "... src/InputBox.s"
+	@echo "... src/MainWindow.o"
+	@echo "... src/MainWindow.i"
+	@echo "... src/MainWindow.s"
+	@echo "... src/keyboard.o"
+	@echo "... src/keyboard.i"
+	@echo "... src/keyboard.s"
+	@echo "... src/main.o"
+	@echo "... src/main.i"
+	@echo "... src/main.s"
 .PHONY : help
 
 

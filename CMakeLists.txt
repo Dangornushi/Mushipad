@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 3.23.1)
 project(Mushipad CXX)
 add_compile_options(-O2)
-add_executable(Mushipad main.cpp keyboard.cpp MainWindow.cpp CommandWindow.cpp InputBox.cpp EditWindow.cpp)
+add_executable(Mushipad src/main.cpp src/keyboard.cpp src/MainWindow.cpp src/CommandWindow.cpp src/InputBox.cpp src/EditWindow.cpp)
+include_directories(${PROJECT_SOURCE_DIR}/include)
 set_property(TARGET Mushipad PROPERTY CXX_STANDARD 17)

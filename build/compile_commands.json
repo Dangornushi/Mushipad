@@ -1,32 +1,32 @@
 [
 {
   "directory": "/Users/dangomushi/Mushipad/build",
-  "command": "/usr/bin/clang++   -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/main.cpp.o -c /Users/dangomushi/Mushipad/main.cpp",
-  "file": "/Users/dangomushi/Mushipad/main.cpp"
+  "command": "/usr/bin/clang++  -I/Users/dangomushi/Mushipad/include -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/src/main.cpp.o -c /Users/dangomushi/Mushipad/src/main.cpp",
+  "file": "/Users/dangomushi/Mushipad/src/main.cpp"
 },
 {
   "directory": "/Users/dangomushi/Mushipad/build",
-  "command": "/usr/bin/clang++   -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/keyboard.cpp.o -c /Users/dangomushi/Mushipad/keyboard.cpp",
-  "file": "/Users/dangomushi/Mushipad/keyboard.cpp"
+  "command": "/usr/bin/clang++  -I/Users/dangomushi/Mushipad/include -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/src/keyboard.cpp.o -c /Users/dangomushi/Mushipad/src/keyboard.cpp",
+  "file": "/Users/dangomushi/Mushipad/src/keyboard.cpp"
 },
 {
   "directory": "/Users/dangomushi/Mushipad/build",
-  "command": "/usr/bin/clang++   -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/MainWindow.cpp.o -c /Users/dangomushi/Mushipad/MainWindow.cpp",
-  "file": "/Users/dangomushi/Mushipad/MainWindow.cpp"
+  "command": "/usr/bin/clang++  -I/Users/dangomushi/Mushipad/include -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/src/MainWindow.cpp.o -c /Users/dangomushi/Mushipad/src/MainWindow.cpp",
+  "file": "/Users/dangomushi/Mushipad/src/MainWindow.cpp"
 },
 {
   "directory": "/Users/dangomushi/Mushipad/build",
-  "command": "/usr/bin/clang++   -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/CommandWindow.cpp.o -c /Users/dangomushi/Mushipad/CommandWindow.cpp",
-  "file": "/Users/dangomushi/Mushipad/CommandWindow.cpp"
+  "command": "/usr/bin/clang++  -I/Users/dangomushi/Mushipad/include -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o -c /Users/dangomushi/Mushipad/src/CommandWindow.cpp",
+  "file": "/Users/dangomushi/Mushipad/src/CommandWindow.cpp"
 },
 {
   "directory": "/Users/dangomushi/Mushipad/build",
-  "command": "/usr/bin/clang++   -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/InputBox.cpp.o -c /Users/dangomushi/Mushipad/InputBox.cpp",
-  "file": "/Users/dangomushi/Mushipad/InputBox.cpp"
+  "command": "/usr/bin/clang++  -I/Users/dangomushi/Mushipad/include -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/src/InputBox.cpp.o -c /Users/dangomushi/Mushipad/src/InputBox.cpp",
+  "file": "/Users/dangomushi/Mushipad/src/InputBox.cpp"
 },
 {
   "directory": "/Users/dangomushi/Mushipad/build",
-  "command": "/usr/bin/clang++   -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/EditWindow.cpp.o -c /Users/dangomushi/Mushipad/EditWindow.cpp",
-  "file": "/Users/dangomushi/Mushipad/EditWindow.cpp"
+  "command": "/usr/bin/clang++  -I/Users/dangomushi/Mushipad/include -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17 -o CMakeFiles/Mushipad.dir/src/EditWindow.cpp.o -c /Users/dangomushi/Mushipad/src/EditWindow.cpp",
+  "file": "/Users/dangomushi/Mushipad/src/EditWindow.cpp"
 }
 ]

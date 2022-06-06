@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/clang++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/Users/dangomushi/Mushipad/include
 
 CXX_FLAGSx86_64 = -O2 -g -DNDEBUG -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.5 -O2 -std=gnu++17
 
