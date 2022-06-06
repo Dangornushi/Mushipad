@@ -1,0 +1,3 @@
+/Users/dangomushi/Mushipad/build/CMakeFiles/Mushipad.dir
+/Users/dangomushi/Mushipad/build/CMakeFiles/edit_cache.dir
+/Users/dangomushi/Mushipad/build/CMakeFiles/rebuild_cache.dir

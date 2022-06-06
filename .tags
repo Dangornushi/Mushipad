@@ -1,0 +1,165 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARCHITECTURE_ID	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/Users\/dangomushi\/Mushipad\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/local\/Cellar\/cmake\/3.23.1_1\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/Users\/dangomushi\/Mushipad$/;"	m
+COMPILER_ID	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL_STR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL_STR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COOMAND_HEIGHT	Mushipad.hpp	/^#define COOMAND_HEIGHT /;"	d
+CXX_STD	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#      define CXX_STD /;"	d	file:
+CXX_STD	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#    define CXX_STD /;"	d	file:
+CXX_STD	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define CXX_STD /;"	d	file:
+CommandS	CommandWindow.hpp	/^    vector<string> CommandS;$/;"	m	class:CommandWindow
+CommandWindow	CommandWindow.hpp	/^class CommandWindow : public InputBox {$/;"	c
+DEC	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+ESC	Mushipad.hpp	/^#define ESC /;"	d
+EditWindow	EditWindow.hpp	/^class EditWindow : public InputBox {$/;"	c
+FALSE	Mushipad.hpp	/^#define FALSE /;"	d
+HEIGHT	EditWindow.cpp	/^int HEIGHT;$/;"	v
+HEX	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+Init	MainWindow.cpp	/^void MainWindow::Init() {$/;"	f	class:MainWindow
+InputBox	InputBox.hpp	/^class InputBox {$/;"	c
+LOOP	Mushipad.hpp	/^#define LOOP /;"	d
+LineBase	EditWindow.hpp	/^    static int LineBase; \/\/ 行数表示欄の幅$/;"	m	class:EditWindow
+LineBase	MainWindow.cpp	/^int EditWindow::LineBase;$/;"	m	class:EditWindow	file:
+Loop	EditWindow.cpp	/^int Loop = TRUE;$/;"	v
+Main	Main.hpp	/^class Main {$/;"	c
+Main	MainWindow.cpp	/^void MainWindow::Main() {$/;"	f	class:MainWindow
+MainWindow	MainWindow.hpp	/^class MainWindow {$/;"	c
+PLATFORM_ID	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
+RM	build/Makefile	/^RM = \/usr\/local\/Cellar\/cmake\/3.23.1_1\/bin\/cmake -E rm -f$/;"	m
+RUN	InputBox.hpp	/^	int RUN;$/;"	m	class:InputBox
+SET_TITLE	Mushipad.hpp	/^#define  SET_TITLE(/;"	d
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+STRINGIFY	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+TRUE	Mushipad.hpp	/^#define TRUE /;"	d
+W	InputBox.hpp	/^    int W;$/;"	m	class:InputBox
+WAIT	Mushipad.hpp	/^#define WAIT /;"	d
+WIDTH	EditWindow.cpp	/^int WIDTH;$/;"	v
+__has_include	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define __has_include(/;"	d	file:
+addEnter	EditWindow.cpp	/^vector<string> EditWindow::addEnter(vector<string> arr, int index) {$/;"	f	class:EditWindow
+bufStart	EditWindow.hpp	/^    int bufStart; \/\/ bufferの表示が開始される位置、デフォルトは0、カーソルが下限に到達するたびにインクリメント、上限に到達するたびにデクリメント$/;"	m	class:EditWindow
+buffer	InputBox.cpp	/^vector<string> buffer;$/;"	v
+bufferName	MainWindow.cpp	/^string bufferName;$/;"	v
+canINPUT	EditWindow.hpp	/^    int canINPUT;$/;"	m	class:EditWindow
+colorSet	MainWindow.cpp	/^void MainWindow::colorSet(int color) {$/;"	f	class:MainWindow
+colorSetBack	MainWindow.cpp	/^void MainWindow::colorSetBack(int color) {$/;"	f	class:MainWindow
+commandLineH	MainWindow.hpp	/^    int           commandLineH;$/;"	m	class:MainWindow
+commandRun	CommandWindow.cpp	/^void CommandWindow::commandRun() {$/;"	f	class:CommandWindow
+commandStr	CommandWindow.hpp	/^    string         commandStr;$/;"	m	class:CommandWindow
+commandWindow	MainWindow.hpp	/^    CommandWindow                                    commandWindow;    \/\/ コマンド入力と実行を司るクラス$/;"	m	class:MainWindow
+digit	main.cpp	/^int Main::digit(int n) {$/;"	f	class:Main
+drawEditWindow	EditWindow.cpp	/^void EditWindow::drawEditWindow() {$/;"	f	class:EditWindow
+editH	EditWindow.hpp	/^    static int editH;    \/\/ 編集ウインドウの高さ$/;"	m	class:EditWindow
+editH	MainWindow.cpp	/^int EditWindow::editH;$/;"	m	class:EditWindow	file:
+editRun	EditWindow.cpp	/^void EditWindow::editRun() {$/;"	f	class:EditWindow
+editW	EditWindow.hpp	/^    static int editW;    \/\/ 編集ウインドウの幅$/;"	m	class:EditWindow
+editW	MainWindow.cpp	/^int EditWindow::editW;$/;"	m	class:EditWindow	file:
+editWindow	MainWindow.hpp	/^    EditWindow                                       editWindow;       \/\/ 編集画面を司るクラス$/;"	m	class:MainWindow
+emptyLineDraw	EditWindow.cpp	/^void EditWindow::emptyLineDraw() {$/;"	f	class:EditWindow
+enter	CommandWindow.cpp	/^void CommandWindow::enter() {$/;"	f	class:CommandWindow
+enter	EditWindow.cpp	/^void EditWindow::enter() {}$/;"	f	class:EditWindow
+enter	InputBox.cpp	/^void InputBox::enter(){}$/;"	f	class:InputBox
+esc	CommandWindow.cpp	/^void CommandWindow::esc() {$/;"	f	class:CommandWindow
+esc	EditWindow.cpp	/^void EditWindow::esc() {}$/;"	f	class:EditWindow
+esc	InputBox.cpp	/^void InputBox::esc(){}$/;"	f	class:InputBox
+fileDataDraw	EditWindow.cpp	/^void EditWindow::fileDataDraw() {}$/;"	f	class:EditWindow
+fileLine	EditWindow.hpp	/^    int fileLine;            \/\/ fileの大きさ$/;"	m	class:EditWindow
+filedata	EditWindow.hpp	/^    vector<string> filedata; \/\/ 開いたファイルの内容$/;"	m	class:EditWindow
+getch	keyboard.cpp	/^int getch(void) {$/;"	f
+h	InputBox.hpp	/^    int h;$/;"	m	class:InputBox
+h	MainWindow.hpp	/^    int           h;           \/\/ 高さ$/;"	m	class:MainWindow
+inData	InputBox.hpp	/^    string inData;$/;"	m	class:InputBox
+info_arch	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_extensions_default	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_extensions_default = "INFO" ":" "extensions_default["$/;"	v
+info_language_standard_default	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_standard_default = "INFO" ":" "standard_default["$/;"	v
+info_platform	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";$/;"	v
+info_version_internal	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version_internal = "INFO" ":" "compiler_version_internal[" COMPILER_VERSION_INTERNAL_STR "]";$/;"	v
+input	CommandWindow.cpp	/^void CommandWindow::input() {$/;"	f	class:CommandWindow
+input	EditWindow.cpp	/^void EditWindow::input() {$/;"	f	class:EditWindow
+input	InputBox.cpp	/^void InputBox::input() {}$/;"	f	class:InputBox
+input	MainWindow.cpp	/^void MainWindow::input() {}$/;"	f	class:MainWindow
+kbhit	keyboard.cpp	/^int kbhit(void) {$/;"	f
+lineNumDraw	EditWindow.cpp	/^void EditWindow::lineNumDraw(int line, int W) {$/;"	f	class:EditWindow
+lineNumLine	EditWindow.cpp	/^int lineNumLine;$/;"	v
+lineNumW	MainWindow.hpp	/^    int           lineNumW;    \/\/ 行数表示欄の幅$/;"	m	class:MainWindow
+main	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	build/test.py	/^def main(): $/;"	f
+main	main.cpp	/^int main(int argc, char **argv) {$/;"	f
+mode	EditWindow.cpp	/^int mode;$/;"	v
+modeConfig	MainWindow.cpp	/^void MainWindow::modeConfig() {$/;"	f	class:MainWindow
+moveCursor	EditWindow.cpp	/^void EditWindow::moveCursor() {$/;"	f	class:EditWindow
+moveCursor	MainWindow.cpp	/^void MainWindow::moveCursor(int key) {}$/;"	f	class:MainWindow
+nowBestLine	EditWindow.hpp	/^    int nowBestLine;                   \/\/ 画面に描写している行数$/;"	m	class:EditWindow
+outPut	CommandWindow.cpp	/^void CommandWindow::outPut(string outPutStr) {$/;"	f	class:CommandWindow
+print	InputBox.cpp	/^void InputBox::print(){}$/;"	f	class:InputBox
+print	MainWindow.cpp	/^template <class Head, class... Tail> void MainWindow::print(Head &&head, Tail &&...tail) {$/;"	f	class:MainWindow
+qnxnto	build/CMakeFiles/3.23.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+reduceEnter	EditWindow.cpp	/^vector<string> EditWindow::reduceEnter(vector<string> arr, int index) {$/;"	f	class:EditWindow
+status	MainWindow.cpp	/^void MainWindow::status() {$/;"	f	class:MainWindow
+stringSplitWhenEnter	EditWindow.cpp	/^vector<string> EditWindow::stringSplitWhenEnter(string s1, int index) {$/;"	f	class:EditWindow
+transWindow	EditWindow.cpp	/^void EditWindow::transWindow() {$/;"	f	class:EditWindow
+unixKeyInput	keyboard.cpp	/^int unixKeyInput() {$/;"	f
+w	MainWindow.hpp	/^    int           w;           \/\/ 幅$/;"	m	class:MainWindow
+winH	MainWindow.hpp	/^    int                                              winH;             \/\/ 画面全体の縦幅$/;"	m	class:MainWindow
+winW	MainWindow.hpp	/^    int                                              winW;             \/\/ 画面全体の横幅$/;"	m	class:MainWindow
+ws	Main.hpp	/^  static struct winsize ws;$/;"	m	class:Main	typeref:struct:Main::winsize
+ws	MainWindow.cpp	/^struct winsize Main::ws;$/;"	m	class:Main	typeref:struct:Main::	file:
+x	InputBox.hpp	/^    int x;$/;"	m	class:InputBox
+x	keyboard.cpp	/^struct termios x;$/;"	v	typeref:struct:termios
+xpos	EditWindow.hpp	/^    static int xpos;     \/\/ カーソルのX座標$/;"	m	class:EditWindow
+xpos	MainWindow.cpp	/^int EditWindow::xpos;$/;"	m	class:EditWindow	file:
+xpos	MainWindow.hpp	/^    int           xpos;        \/\/ カーソルのある行で左から何文字目か$/;"	m	class:MainWindow
+y	InputBox.hpp	/^    int y;$/;"	m	class:InputBox
+ypos	EditWindow.hpp	/^    static int ypos;     \/\/ カーソルのY座標$/;"	m	class:EditWindow
+ypos	MainWindow.cpp	/^int EditWindow::ypos;$/;"	m	class:EditWindow	file:
+ypos	MainWindow.hpp	/^    int           ypos;        \/\/ カーソルが今ある行数$/;"	m	class:MainWindow
+~EditWindow	EditWindow.hpp	/^    virtual ~EditWindow(){};$/;"	f	class:EditWindow
+~Main	Main.hpp	/^  virtual ~Main() {};$/;"	f	class:Main
+~MainWindow	MainWindow.hpp	/^    ~MainWindow(){};$/;"	f	class:MainWindow
