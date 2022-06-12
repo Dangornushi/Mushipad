@@ -25,6 +25,7 @@ int main(int argc, char **argv) {
     }
 	mode = 1;
 	int lineNum = 0;
+	int autoSave = TRUE; 
 	if ( argc > 1) {
         string line;
         string openFileName; 

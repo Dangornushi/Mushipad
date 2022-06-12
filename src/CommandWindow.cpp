@@ -1,5 +1,11 @@
 #include "CommandWindow.hpp"
+#include "Mushipad.hpp"
+#include "EditWindow.hpp"
 
+/*
+int EditWindow::xpos;
+int EditWindow::ypos;
+*/
 
 void CommandWindow::commandRun() {
     input();
@@ -20,6 +26,13 @@ void CommandWindow::commandRun() {
 		outPut("Saved to :"+bufferName);
 		//mode = 0;
 	}
+	/*
+	if (InputBox::inData[InputBox::inData.length()-1] == 'G') {
+		EditWindow::ypos = stoi(InputBox::inData.erase(InputBox::inData[InputBox::inData.length()-1]));
+		EditWindow::xpos = 0;
+		
+	}
+	*/
     inData = "";
 }
 

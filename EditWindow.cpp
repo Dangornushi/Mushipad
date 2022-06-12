@@ -6,20 +6,20 @@
 
 int WIDTH;
 int HEIGHT;
+//int xpos;
 //int ypos;
 int mode;
 int lineNumLine;
 
 int Loop = TRUE;
-int autoSave;
 
 //string bufferName;
 
 void EditWindow::editRun() {
     canINPUT = FALSE;
     printf("\033[2J"); //画面クリア
-//    EditWindow::xpos = LineBase+1;
-//    EditWindow::ypos = 0;
+    EditWindow::xpos = LineBase+1;
+    EditWindow::ypos = 0;
     printf("\033[0;0H");
 	bufStart = 0;
 
@@ -44,19 +44,19 @@ void EditWindow::moveCursor() {
             if (ypos > editH) {
                 bufStart++;
 				drawEditWindow();
+				xpos = buffer[ypos - 2].length();
             } else if (ypos <= buffer.size()) {
                 ypos++;
             }
-			xpos = buffer[ypos - 2].length() + LineBase + 1;
         } break;
         case 'k': {
             if (ypos > 1) {
                 ypos--;
+				xpos = buffer[ypos - 2].length();
             } else if (bufStart > 0 && ypos < editH) {
                 bufStart--;
                 drawEditWindow();
             }
-			xpos = buffer[ypos - 2].length() + LineBase + 1;
         } break;
         case 'h': {
             if (xpos > LineBase+1)
@@ -168,13 +168,6 @@ void EditWindow::input() {
             } break;
             case 27: {
                 canINPUT = FALSE;
-                if (autoSave == TRUE) {
-                    std::ofstream writeFile(bufferName);
-                    for (auto tmp : buffer) {
-                        writeFile << tmp << endl;
-                    }
-                    CommandWindow::outPut("Saved to :" + bufferName);
-                }
             } break;
             case '\t': {
                 buffer[ypos].resize(buffer[ypos].length() + 4);

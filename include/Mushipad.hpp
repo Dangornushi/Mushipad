@@ -46,3 +46,4 @@ extern int mode;
 extern int lineNumLine;
 extern vector<string> buffer;
 extern string bufferName;
+extern int autoSave;

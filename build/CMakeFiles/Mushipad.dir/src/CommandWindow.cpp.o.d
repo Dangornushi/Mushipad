@@ -264,4 +264,6 @@ CMakeFiles/Mushipad.dir/src/CommandWindow.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/sys/_types/_uuid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/gethostuuid.h \
   /Users/dangomushi/Mushipad/include/InputBox.hpp \
-  /Users/dangomushi/Mushipad/include/Main.hpp
+  /Users/dangomushi/Mushipad/include/Main.hpp \
+  /Users/dangomushi/Mushipad/include/EditWindow.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk/usr/include/c++/v1/sstream
